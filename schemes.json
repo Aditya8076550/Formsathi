@@ -1,0 +1,128 @@
+[
+  {
+    "id": "pm_kisan",
+    "name": "PM Kisan Samman Nidhi",
+    "keywords": ["pm kisan", "kisan", "farmer", "agriculture", "kisaan", "farming"],
+    "description": "A central government scheme providing income support of ₹6,000 per year to farmer families across the country, paid in three equal installments of ₹2,000 every four months.",
+    "eligibility": [
+      "Small and marginal farmer families",
+      "Combined landholding of up to 2 hectares",
+      "Must have cultivable land in their name",
+      "Indian citizen"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Land ownership records (Khatoni/Khasra)",
+      "Bank account details (linked to Aadhaar)",
+      "Passport-size photograph",
+      "Mobile number"
+    ],
+    "ministry": "Ministry of Agriculture & Farmers Welfare",
+    "benefit": "₹6,000/year (₹2,000 × 3 installments)"
+  },
+  {
+    "id": "ration_card",
+    "name": "Ration Card (PDS)",
+    "keywords": ["ration card", "ration", "food", "pds", "public distribution", "anaj", "ration"],
+    "description": "A government-issued document that allows eligible families to purchase subsidized food grains and other essential commodities from fair price shops under the Public Distribution System.",
+    "eligibility": [
+      "Resident of the state where applying",
+      "Annual family income below state-defined threshold",
+      "No existing ration card in the family",
+      "BPL/APL/AAY category as applicable"
+    ],
+    "documents": [
+      "Aadhaar Card (all family members)",
+      "Proof of residence (electricity bill / rent agreement)",
+      "Income certificate",
+      "Passport-size photographs",
+      "Existing ration card (if surrendering)"
+    ],
+    "ministry": "Ministry of Consumer Affairs, Food and Public Distribution",
+    "benefit": "Subsidized food grains at ₹1–3/kg"
+  },
+  {
+    "id": "ayushman_bharat",
+    "name": "Ayushman Bharat (PM-JAY)",
+    "keywords": ["ayushman", "health", "medical", "hospital", "insurance", "pmjay", "ayushman bharat", "health card"],
+    "description": "World's largest government-funded health insurance scheme providing coverage of ₹5 lakh per family per year for secondary and tertiary care hospitalization to over 10 crore poor and vulnerable families.",
+    "eligibility": [
+      "Families listed in SECC 2011 database",
+      "Deprived rural families (D1–D7 categories)",
+      "Urban workers in defined occupational categories",
+      "No upper age limit"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "Ration Card or SECC data proof",
+      "Mobile number",
+      "Passport-size photograph",
+      "Income certificate (if required)"
+    ],
+    "ministry": "Ministry of Health and Family Welfare",
+    "benefit": "₹5 lakh/year health coverage per family"
+  },
+  {
+    "id": "ujjwala_yojana",
+    "name": "Pradhan Mantri Ujjwala Yojana",
+    "keywords": ["ujjwala", "lpg", "gas", "cylinder", "cooking gas", "pmuy", "free gas"],
+    "description": "Provides free LPG connections to women from Below Poverty Line households to replace unclean cooking fuels and improve health outcomes, especially for rural women.",
+    "eligibility": [
+      "Woman aged 18 years or above",
+      "BPL family as per SECC 2011",
+      "No existing LPG connection in household",
+      "Resident of rural or urban area"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "BPL card or SECC list proof",
+      "Bank account details",
+      "Address proof",
+      "Passport-size photograph"
+    ],
+    "ministry": "Ministry of Petroleum and Natural Gas",
+    "benefit": "Free LPG connection + first refill subsidy"
+  },
+  {
+    "id": "jan_dhan",
+    "name": "Pradhan Mantri Jan Dhan Yojana",
+    "keywords": ["jan dhan", "bank account", "zero balance", "jandhan", "pmjdy", "banking"],
+    "description": "National mission for financial inclusion to ensure access to financial services such as banking, savings, credit, insurance, and pension for all households at affordable costs.",
+    "eligibility": [
+      "Any Indian citizen aged 10 years and above",
+      "No existing bank account required",
+      "Zero minimum balance requirement",
+      "Even minors above 10 can open accounts"
+    ],
+    "documents": [
+      "Aadhaar Card (primary KYC)",
+      "Voter ID / PAN Card / Driving License (alternative)",
+      "Passport-size photograph",
+      "Mobile number"
+    ],
+    "ministry": "Ministry of Finance",
+    "benefit": "Zero-balance account + ₹2 lakh accident insurance + overdraft facility"
+  },
+  {
+    "id": "mudra_loan",
+    "name": "Pradhan Mantri Mudra Yojana",
+    "keywords": ["mudra", "loan", "business loan", "startup", "msme", "small business", "self employment"],
+    "description": "Provides loans up to ₹10 lakh to non-corporate, non-farm small/micro enterprises for income-generating activities in manufacturing, trading, and services.",
+    "eligibility": [
+      "Indian citizen above 18 years",
+      "Non-farm small or micro business",
+      "No defaulter of any bank/financial institution",
+      "Valid business plan or existing business"
+    ],
+    "documents": [
+      "Aadhaar Card",
+      "PAN Card",
+      "Business proof / registration",
+      "Bank statements (last 6 months)",
+      "Passport-size photograph",
+      "Income Tax Returns (if applicable)"
+    ],
+    "ministry": "Ministry of Finance / SIDBI",
+    "benefit": "Loans: Shishu (₹50K), Kishore (₹5L), Tarun (₹10L)"
+  }
+]
